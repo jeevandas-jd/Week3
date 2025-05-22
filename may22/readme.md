@@ -7,16 +7,16 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 
 **Goal:**  
 Answer user questions using document context. We embed and store the document (`faq.txt`) in ChromaDB, retrieve the most relevant chunks using semantic search, and generate natural language answers using Gemini models.
-
+```bash
 ---
-├── FAQ.py #
-├── faq.txt #
-├── main.py #
-├── __pycache__ #
+├── FAQ.py 
+├── faq.txt 
+├── main.py 
+├── __pycache__ 
 │   └── queryHandler.cpython-313.pyc
 ├── queryHandler.py#
 └── ragRetriver.py#
-
+```
 
 ---
 
