@@ -2,6 +2,8 @@ import autogen
 import os
 from dotenv import load_dotenv
 from autogen import AssistantAgent,UserProxyAgent,GroupChat,GroupChatManager
+
+from autogen_core.tools import FunctionTool
 load_dotenv()
 
 config_list=[{

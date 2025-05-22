@@ -1,0 +1,20 @@
+Frequently Asked Questions
+Have questions about Lealabs or the Klaw App? Our FAQs section provides clear answers to common inquiries, ensuring you have the information you need to make the most of our solutions. Find detailed responses to product features, technical support, and more, all in one place.
+
+What is Lealabs Private Limited?
+Lealabs is an AI-driven company focused on developing innovative AI based solutions to solve critical challenges in various fields, starting with enhancing the learning experience for students.
+
+What is the Klaw App?
+The Klaw App is an AI-powered learning platform designed to support engineering students by providing personalized chatbots, access to university-specific resources, and tailored exam preparation tools.
+
+What problem does the Klaw App aim to solve?
+The Klaw App addresses the gap in personalized learning by providing AI-powered chatbots, university-specific resources, and tailored exam preparation to improve student engagement and academic success.
+
+How can I access the Klaw App?
+The Klaw App is accessible through web and mobile platforms, ensuring students can use it anytime, anywhere.
+
+How can I get support if I encounter issues with the Klaw App?
+Our technical support team is available 24/7 to assist with any app-related queries or issues, ensuring a seamless user experience.
+
+Is the Klaw App free to use?
+The Klaw App offers both free and premium features. Students can access basic functionality for free, with advanced features available through a subscription plan.
