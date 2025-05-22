@@ -1,3 +1,4 @@
+
 # FAQ-RAG: Retrieval-Augmented FAQ Answering System
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that allows you to query a document (e.g., `faq.txt`) and get intelligent answers powered by **Google Gemini** and **ChromaDB**.
@@ -8,23 +9,13 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 Answer user questions using document context. We embed and store the document (`faq.txt`) in ChromaDB, retrieve the most relevant chunks using semantic search, and generate natural language answers using Gemini models.
 
 ---
-# FAQ-RAG: Retrieval-Augmented FAQ Answering System
-
-This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that allows you to query a document (e.g., `faq.txt`) and get intelligent answers powered by **Google Gemini** and **ChromaDB**.
-
-## 🔍 Project Overview
-
-**Goal:**  
-Answer user questions using document context. We embed and store the document (`faq.txt`) in ChromaDB, retrieve the most relevant chunks using semantic search, and generate natural language answers using Gemini models.
-
----
-├── FAQ.py
-├── faq.txt
-├── main.py
-├── __pycache__
+├── FAQ.py #
+├── faq.txt #
+├── main.py #
+├── __pycache__ #
 │   └── queryHandler.cpython-313.pyc
-├── queryHandler.py
-└── ragRetriver.py
+├── queryHandler.py#
+└── ragRetriver.py#
 
 
 ---
